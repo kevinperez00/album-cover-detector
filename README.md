@@ -12,6 +12,6 @@ This project uses OpenCV to detect album covers through a webcam and Selenium to
 pip install -r requirements.txt
 
 ## Running the Program
-pyhton album_detector.py
+pyhton main.py
 
 Press Q to exit the program (you have to have the webcam popup selected for it to close with Q)
